@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+header {
+    background-color: grey;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 5px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+section {
+    padding: 60px 0;
+}
+.p-img {
+    width: 150px;
+    height: 150px;
+    margin-left: 15px;
+}
+.p-hed {
+    width: 250px;
+    height: 10px;
+    font-size: 29px;
+   margin-left: 35px;
+   font-weight: bold;
+   font-family: "poppine";
+}
+.top-section {
+    width: 150px;
+    
+}
+.top-para {
+    margin-top: 60px;
+     margin-left: 35px;
+      width: 250px;
+}
+.top-cont {
+    margin-top: 75px;
+    margin-bottom: 50px;
+}
+.bt {
+    margin-left: 35px;
+}
+.container-2{
+     width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.link-img {
+    height: 40px;
+    width: 40px;
+    margin-left: 45px;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+.link-para {
+   margin-top: 39px;
+   margin-left: 10px;
+    
+}
+.S-hed {
+    margin-left: 35px;
+}
+.skills-img {
+    height: 100px;
+    width: 100px;
+}
+.project{
+  margin-top: 30px;  
+  padding: 20px;
+}
+.container {
+    margin-top: 100px;
+   margin-bottom: 50px; 
+   margin-left: 25px;
+}
+/* Styling for contact section */
+form input,
+form textarea {
+    width: 75%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+form textarea {
+    height: 100px;
+}
+form button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+
+/* Styling for footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
